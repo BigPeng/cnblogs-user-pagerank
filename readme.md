@@ -9,5 +9,7 @@ This is a dataset of user realtionship of cnblogs users.
 
 3.pagerank.txt is the pagerank of the users.
 
+If you use this dataset in your thesis,Please cite "https://github.com/BigPeng/cnblogs-user-pagerank" and send an email to me(jiqunpeng@gmail.com)
+
 For more detail,please checkout http://www.cnblogs.com/fengfenggirl/p/pagerank-cnblogs.html
     
